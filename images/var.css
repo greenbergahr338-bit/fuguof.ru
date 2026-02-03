@@ -1,0 +1,28 @@
+:root {
+  --font_onest: 'Onest', sans-serif;
+  --body-bg: #03145B;
+  --color-white: #fff;
+  --menu-bg-color: #1486DD;
+  --bg-color: #1486DD;
+  --color-grey-light: rgba(255, 255, 255, 0.178);
+  --color-grey-light-hover: rgba(255, 255, 255, 0.144);
+  --color-btn-green: #FFCC00;
+  --menu-bg-color: #1486DD;
+  --hover-color: rgba(255, 255, 255, 0.1);
+  --text-color: #ffffff;
+  --active-border-color: #FFCC00;
+  --color-green: #FFCC00;
+  --button-gradient: #ffec3f;
+  --button-hover-gradient: linear-gradient(
+    -63.43deg,
+    #FFCC00 47.87%,
+    #fbe075 85.58%,
+    #f0fff0 103.32%
+  );
+  --gradient: linear-gradient(
+    to bottom,
+    #ffffff 20%,
+    #010042 50%,
+    #ffffff 100%
+  );
+}
